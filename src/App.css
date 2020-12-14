@@ -1,0 +1,19 @@
+.body {
+      background-size: 100% 100%;
+      /* background-color: pink ; */
+      background-image: url(../src/bckimg/img1.jpg); 
+       background-attachment:fixed!important;
+      background-repeat: no-repeat!important;
+      background-position: top left!important;
+}
+.div1{
+  /* height: 150px; */
+  width: 200px;
+  text-align: center;
+  margin: 20px;
+  }
+  .div2{
+    border: 1px solid sienna;
+    box-shadow: skyblue;
+    border-radius: 10px;
+    }
